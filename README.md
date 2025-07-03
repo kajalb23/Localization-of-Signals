@@ -1,7 +1,11 @@
 # Localization of Signals
 
-This project is being conducted under the guidance of **Prof. Rajesh M. Hegde**([https://iitk.ac.in/new/rajeshm](https://iitk.ac.in/new/rajesh-m-hegde))
+
+
+This project is being conducted under the guidance of professor **Rajesh M. Hegde**([https://iitk.ac.in/new/rajeshm](https://iitk.ac.in/new/rajesh-m-hegde))
 , Department of Electrical Engineering, IIT Kanpur. The work focuses on deep learning approaches for signal classification using image-based inputs and is currently expanding into multilingual audio processing through Transformer-based models and sound source separation.
+
+
 
 ---
 
