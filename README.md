@@ -56,7 +56,6 @@ This project is being conducted under the guidance of professor **Rajesh M. Hegd
 ## Ongoing Work
 
 - Developing **Transformer-based models** for sequence-to-sequence translation of multilingual audio
-- Preparing datasets involving **paired audio-text inputs**
 - Integrating **source separation models** to isolate individual voices from multi-speaker recordings
 - **End Goal**: Combine translation and localization for real-time audio understanding
 
