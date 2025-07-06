@@ -32,12 +32,11 @@ This project is being conducted under the guidance of professor **Rajesh M. Hegd
 
 ## Models Implemented
 
-| Model | Test Accuracy (%) |
-|-------|-------------------|
-| DNN   | 96.95             |
-| CNN   | 98.12             |
-| RNN   | 96.48             |
-| CRNN  | 97.73             |
+| Model | Test Accuracy (%)           |
+|-------|-----------------------------|
+| DNN   | 97.95   (on MNIST)          |
+| CNN   | 83.00   (on CIFAR-10)       |
+| RNN   | 98.66   (on MNIST)          |
 
 - Implemented using **TensorFlow** and **Keras**
 - Trained and validated using **Google Colab**
